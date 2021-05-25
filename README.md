@@ -1,5 +1,4 @@
-# coupon_system
-The coupon system includes template, distribution, settlement, and permission checking micro-services
+# 优惠券系统
 
 项目技术:
 SpringCloud、SpringDataJPA、MySQL、Redis、Kafka 
@@ -20,3 +19,4 @@ SpringCloud、SpringDataJPA、MySQL、Redis、Kafka
 ![image](https://user-images.githubusercontent.com/67719239/119512225-b478c800-bda5-11eb-8612-7859da575821.png)
 
 有木有前端的小伙伴一起搞一个完整的项目，现在我后端基本功能差不多都实现了。
+交流QQ群：725936761
