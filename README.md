@@ -12,7 +12,7 @@ SpringCloud、SpringDataJPA、MySQL、Redis、Kafka
 3.SpringCloud实现服务注册、分发、熔断降级
 4.Kafka实现将过期优惠券异步回写
 
-
+其中的模板微服务中的查询方法
 ![image](https://user-images.githubusercontent.com/67719239/119512095-98752680-bda5-11eb-8f00-d00aaec52fad.png)
 
 
