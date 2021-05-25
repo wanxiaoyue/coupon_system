@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4833706a-2590-4c65-b1cb-2517aa4653b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-permission-service/src/main/java/com/wanxiaoyuan/coupon/service/IPathService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="wanxiaoyuan_coupon_data: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Dev" />
+        <entry key="$PROJECT_DIR$/coupon_system" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JAVA_Installation\Maven\apache-maven-3.6.1\maven-repo" />
+        <option name="mavenHome" value="D:/JAVA_Installation/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\JAVA_Installation\Maven\apache-maven-3.6.1\conf\settingsOwn.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sOMmQTT6vF5fvhBpdTYxlJI1j4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="d09d83ef-9743-446d-afb0-17b124e73144" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-distribution\src\main\java\com\wanxiaoyuan\coupon" />
+      <recent name="D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-template\src\main\java\com\wanxiaoyuan\coupon" />
+      <recent name="D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-template\src\main\resources" />
+      <recent name="D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permision-service\src\main\resources\sql" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.wanxiaoyuan.coupon.entity" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\coupon-service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+    <configuration name="ExecuteManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-settlement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxiaoyuan.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wanxiaoyuan.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wanxiaoyuan.coupon.service.ExecuteManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecuteManagerTest.testComputeRule" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-settlement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxiaoyuan.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wanxiaoyuan.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wanxiaoyuan.coupon.service.ExecuteManagerTest" />
+      <option name="METHOD_NAME" value="testComputeRule" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettlementApplicationTest.contextLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-settlement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxiaoyuan.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wanxiaoyuan.coupon" />
+      <option name="MAIN_CLASS_NAME" value="com.wanxiaoyuan.coupon.SettlementApplicationTest" />
+      <option name="METHOD_NAME" value="contextLoad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.TestRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxiaoyuan.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wanxiaoyuan.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wanxiaoyuan.coupon.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="TestRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testFindCouponByStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxiaoyuan.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wanxiaoyuan.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.wanxiaoyuan.coupon.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testFindCouponByStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="coupon-template" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="coupon-template" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-distribution" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wanxiaoyuan.coupon.DistributionApplication" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wanxiaoyuan.coupon.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermissionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-permission-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wanxiaoyuan.coupon.PermissionApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettlementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="coupon-settlement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxiaoyuan.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wanxiaoyuan.coupon.SettlementApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wanxiaoyuan.coupon.TemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="coupon-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wanxiaoyuan.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wanxiaoyuan.coupon.ZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SettlementApplicationTest.contextLoad" />
+      <item itemvalue="JUnit.ExecuteManagerTest.testComputeRule" />
+      <item itemvalue="JUnit.ExecuteManagerTest" />
+      <item itemvalue="JUnit.UserServiceTest.testFindCouponByStatus" />
+      <item itemvalue="JUnit.UserServiceTest.TestRedis" />
+      <item itemvalue="Spring Boot.DistributionApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.ZuulGatewayApplication" />
+      <item itemvalue="Spring Boot.TemplateApplication" />
+      <item itemvalue="Spring Boot.PermissionApplication" />
+      <item itemvalue="Spring Boot.SettlementApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.TestRedis" />
+        <item itemvalue="JUnit.UserServiceTest.testFindCouponByStatus" />
+        <item itemvalue="JUnit.ExecuteManagerTest" />
+        <item itemvalue="JUnit.ExecuteManagerTest.testComputeRule" />
+        <item itemvalue="JUnit.SettlementApplicationTest.contextLoad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21906841" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator.DESKTOP-JBIR1GN\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4833706a-2590-4c65-b1cb-2517aa4653b3" name="Default Changelist" comment="" />
+      <created>1620739340545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620739340545</updated>
+      <workItem from="1620739343008" duration="2298000" />
+      <workItem from="1620779775380" duration="23786000" />
+      <workItem from="1620872375071" duration="16024000" />
+      <workItem from="1620951495483" duration="17968000" />
+      <workItem from="1621008817674" duration="1342000" />
+      <workItem from="1621039924846" duration="27773000" />
+      <workItem from="1621123452993" duration="15429000" />
+      <workItem from="1621147271691" duration="23860000" />
+      <workItem from="1621211641138" duration="2530000" />
+      <workItem from="1621214201725" duration="22354000" />
+      <workItem from="1621299660892" duration="33545000" />
+      <workItem from="1621351851327" duration="1957000" />
+      <workItem from="1621353820378" duration="1448000" />
+      <workItem from="1621384109910" duration="42016000" />
+      <workItem from="1621471537482" duration="43011000" />
+      <workItem from="1621580728723" duration="8184000" />
+      <workItem from="1621593406882" duration="19694000" />
+      <workItem from="1621643623840" duration="41440000" />
+      <workItem from="1621732500488" duration="27194000" />
+      <workItem from="1621823195359" duration="16789000" />
+      <workItem from="1621905039756" duration="5881000" />
+      <workItem from="1621941288863" duration="3655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="316" y="91" key="#Assign_Data_Sources" timestamp="1621581809710">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="316" y="91" key="#Assign_Data_Sources/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621008518945" />
+    <state x="316" y="91" key="#Assign_Data_Sources/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621581809710" />
+    <state x="316" y="91" key="#Notifications" timestamp="1621580479579">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="316" y="91" key="#Notifications/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621580479579" />
+    <state x="358" y="0" width="744" height="864" key="#PermissionApplication" timestamp="1621581754467">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="358" y="0" width="744" height="864" key="#PermissionApplication/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621581754467" />
+    <state x="316" y="91" key="#Project_Structure" timestamp="1621148882345">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="316" y="91" key="#Project_Structure/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620803791232" />
+    <state x="316" y="91" key="#Project_Structure/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621148882345" />
+    <state x="454" y="187" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1621698717322">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="454" y="187" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621698717322" />
+    <state x="617" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1621006888719">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="617" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621006888719" />
+    <state x="205" y="0" width="1089" height="864" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621654306479">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="437" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621008426518" />
+    <state x="205" y="0" width="1089" height="864" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621654306479" />
+    <state x="951" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1621562645189">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="957" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621009259593" />
+    <state x="951" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621562645189" />
+    <state x="453" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1621008487784">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="453" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621008487784" />
+    <state x="541" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1621581079253">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="541" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621581079253" />
+    <state x="394" y="0" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1621008730450">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="394" y="0" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621008730450" />
+    <state x="394" y="231" key="#com.intellij.jpa.generation.ui.ImportMappingsDialog" timestamp="1621008377962">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="394" y="231" key="#com.intellij.jpa.generation.ui.ImportMappingsDialog/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621008377962" />
+    <state x="454" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621673546524">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="454" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621673546523" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1621095515622">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621095515622" />
+    <state width="502" height="466" key="DebuggerActiveHint" timestamp="1621578638848">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="502" height="466" key="DebuggerActiveHint/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621578638848" />
+    <state x="707" y="197" key="FileChooserDialogImpl" timestamp="1621944388560">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="504" y="187" key="FileChooserDialogImpl/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620921267622" />
+    <state x="707" y="197" key="FileChooserDialogImpl/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621944388560" />
+    <state width="1072" height="284" key="GridCell.Tab.0.bottom" timestamp="1621873248309">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.0.bottom/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.0.bottom/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248309" />
+    <state width="1072" height="284" key="GridCell.Tab.0.center" timestamp="1621873248309">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.0.center/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.0.center/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248309" />
+    <state width="1072" height="284" key="GridCell.Tab.0.left" timestamp="1621873248309">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.0.left/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.0.left/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248309" />
+    <state width="1072" height="284" key="GridCell.Tab.0.right" timestamp="1621873248309">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.0.right/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.0.right/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248309" />
+    <state width="1072" height="284" key="GridCell.Tab.1.bottom" timestamp="1621873248310">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.1.bottom/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.1.bottom/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248310" />
+    <state width="1072" height="284" key="GridCell.Tab.1.center" timestamp="1621873248309">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.1.center/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.1.center/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248309" />
+    <state width="1072" height="284" key="GridCell.Tab.1.left" timestamp="1621873248309">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.1.left/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.1.left/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248309" />
+    <state width="1072" height="284" key="GridCell.Tab.1.right" timestamp="1621873248310">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1403" height="91" key="GridCell.Tab.1.right/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620836728077" />
+    <state width="1072" height="284" key="GridCell.Tab.1.right/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621873248310" />
+    <state width="1072" height="284" key="GridCell.Tab.2.bottom" timestamp="1621756340312">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1072" height="284" key="GridCell.Tab.2.bottom/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621756340312" />
+    <state width="1072" height="284" key="GridCell.Tab.2.center" timestamp="1621756340312">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1072" height="284" key="GridCell.Tab.2.center/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621756340312" />
+    <state width="1072" height="284" key="GridCell.Tab.2.left" timestamp="1621756340312">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1072" height="284" key="GridCell.Tab.2.left/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621756340312" />
+    <state width="1072" height="284" key="GridCell.Tab.2.right" timestamp="1621756340312">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1072" height="284" key="GridCell.Tab.2.right/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621756340312" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1621583257919">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621001625918" />
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621583257919" />
+    <state x="254" y="87" key="Maven.ArtifactSearchDialog" timestamp="1621327647643">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="254" y="87" key="Maven.ArtifactSearchDialog/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621327647643" />
+    <state x="422" y="171" key="NewModule_or_Project.wizard" timestamp="1621344227482">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="422" y="171" key="NewModule_or_Project.wizard/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621344227482" />
+    <state x="198" y="135" width="996" height="707" key="SettingsEditor" timestamp="1621945375548">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="274" y="14" key="SettingsEditor/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621040681529" />
+    <state x="198" y="135" width="996" height="707" key="SettingsEditor/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621945375548" />
+    <state x="314" y="171" key="SpringBootCustomization" timestamp="1621351924202">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="314" y="171" key="SpringBootCustomization/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621351924202" />
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2" timestamp="1621944013553">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621944013553" />
+    <state x="456" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1621390011041">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="456" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621390011041" />
+    <state x="172" y="169" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1621600863015">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="172" y="169" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621600863015" />
+    <state x="192" y="187" key="new project wizard" timestamp="1621514601008">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="224" y="121" key="new project wizard/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1620921063900" />
+    <state x="192" y="187" key="new project wizard/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621514601008" />
+    <state x="380" y="197" key="run.anything.popup" timestamp="1621909908179">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="380" y="197" key="run.anything.popup/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621909908179" />
+    <state x="386" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1621561832444">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="386" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1446.864/1920.0.1600.860@0.0.1446.864" timestamp="1621040143894" />
+    <state x="386" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1446.864/1920.0.1920.1040@0.0.1446.864" timestamp="1621561832444" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-template/src/test/java/com/wanxiaoyuan/coupon/service/BuildTemplateTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/AbstractExecutor.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/ExecuteManager.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/AbstractExecutor.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/iml/ManJianExecutor.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/iml/ManJianZheKouExecutor.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/ExecuteManager.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/ExecuteManager.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/iml/ManJianZheKouExecutor.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/iml/ManJianZheKouExecutor.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-template/src/main/java/com/wanxiaoyuan/coupon/controller/CouponTemplateController.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/wanxiaoyuan/coupon/filter/PreRequestFilter.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/wanxiaoyuan/coupon/filter/AbsSecurityFilter.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/wanxiaoyuan/coupon/filter/PermissionFilter.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/test/java/com/wanxiaoyuan/coupon/service/ExecuteManagerTest.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/test/java/com/wanxiaoyuan/coupon/service/ExecuteManagerTest.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-settlement/src/main/java/com/wanxiaoyuan/coupon/executor/iml/ZheKouExecutor.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wanxiaoyuan-coupon-service/coupon-distribution/src/main/java/com/wanxiaoyuan/coupon/service/impl/UserServiceImpl.java</url>
+          <line>356</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

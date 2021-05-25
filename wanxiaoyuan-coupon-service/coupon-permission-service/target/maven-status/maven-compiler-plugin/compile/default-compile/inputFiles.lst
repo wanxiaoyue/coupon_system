@@ -1,0 +1,15 @@
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\PermissionApplication.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\controller\PermissionController.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\service\impl\PermissionServiceImpl.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\service\IPathService.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\service\IPermissionService.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\constant\RoleEnum.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\entity\Role.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\entity\RolePathMapping.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\entity\Path.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\dao\RoleRepository.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\service\impl\PathServiceImpl.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\dao\UserRoleMappingRepository.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\entity\UserRoleMapping.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\dao\PathRepository.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-permission-service\src\main\java\com\wanxiaoyuan\coupon\dao\RolePathMappingRepository.java

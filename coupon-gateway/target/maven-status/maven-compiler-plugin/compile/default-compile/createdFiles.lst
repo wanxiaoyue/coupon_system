@@ -1,0 +1,10 @@
+com\wanxiaoyuan\coupon\filter\RateLimiterFilter.class
+com\wanxiaoyuan\coupon\filter\AbstractPostZuulFilter.class
+com\wanxiaoyuan\coupon\ZuulGatewayApplication.class
+com\wanxiaoyuan\coupon\filter\AbsSecurityFilter.class
+com\wanxiaoyuan\coupon\filter\PermissionFilter.class
+com\wanxiaoyuan\coupon\filter\TokenFilter.class
+com\wanxiaoyuan\coupon\filter\PreRequestFilter.class
+com\wanxiaoyuan\coupon\filter\AccessLogFilter.class
+com\wanxiaoyuan\coupon\filter\AbstractZuulFilter.class
+com\wanxiaoyuan\coupon\filter\AbstractPreZuulFilter.class

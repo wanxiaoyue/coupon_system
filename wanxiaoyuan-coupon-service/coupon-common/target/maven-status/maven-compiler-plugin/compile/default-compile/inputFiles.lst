@@ -1,0 +1,17 @@
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\constant\PeriodType.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\vo\CommonResponse.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\constant\GoodsType.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\vo\GoodsInfo.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\advice\CommonResponseDataAdvice.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\vo\CouponTemplateSDK.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\constant\ProductLine.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\constant\Constant.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\config\WebConfiguration.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\constant\DistributeTarget.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\exception\CouponException.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\vo\TemplateRule.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\advice\GlobalExceptionAdvice.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\constant\CouponCategory.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\config\JacksonConfig.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\vo\SettlementInfo.java
+D:\JAVA\myProjectCoupon\code\wanxiaoyuan-coupon\wanxiaoyuan-coupon-service\coupon-common\src\main\java\com\wanxiaoyuan\coupon\annotation\IgnoreResponseAdvice.java

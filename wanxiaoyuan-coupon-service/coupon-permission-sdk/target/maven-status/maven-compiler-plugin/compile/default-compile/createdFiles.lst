@@ -1,0 +1,7 @@
+com\wanxiaoyuan\coupon\vo\CreatePathRequest.class
+com\wanxiaoyuan\coupon\vo\CreatePathRequest$PathInfo.class
+com\wanxiaoyuan\coupon\vo\CreatePathRequest$PathInfo$PathInfoBuilder.class
+com\wanxiaoyuan\coupon\HttpMethodEnum.class
+com\wanxiaoyuan\coupon\permission\PermissionClient.class
+com\wanxiaoyuan\coupon\OpModeEnum.class
+com\wanxiaoyuan\coupon\vo\CheckPermissionRequest.class

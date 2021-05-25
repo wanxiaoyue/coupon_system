@@ -1,0 +1,67 @@
+server:
+  port: 7001
+  servlet:
+   context-path: /coupon-template  #controller路径的前缀，模板微服务前缀，网关可以识别这个微服务
+
+spring:
+  application:
+    name: eureka-client-coupon-template
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate.show_sql: true
+      hibernate.format_sql: true
+    open-in-view: false
+  datasource:
+    # 数据源
+    url: jdbc:mysql://127.0.0.1:3306/wanxiaoyuan_coupon_data?autoReconnect=true&useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: 123456
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # 连接池
+    hikari:
+      maximum-pool-size: 8
+      minimum-idle: 4
+      idle-timeout: 30000
+      connection-timeout: 30000
+      max-lifetime: 45000
+      auto-commit: true
+      pool-name: WanxiaoyuanCouponHikariCP
+  redis:
+    database: 0
+    host: 127.0.0.1
+    port: 6379
+    # password:
+    # 连接超时时间
+    timeout: 10000
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:8000/eureka/
+
+# ------------------------------------------------------------------------------------------------------
+#监控端点与信息配置
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+info:
+  app:
+    name: wanxiaoyuan-coupon-template
+    groupId: wanxiaoyuan-coupon-service
+    artifactId: coupon-template
+    version: 1.0-SNAPSHOT
+
+# ------------------------------------------------------------------------------------------------------
+#日志打印相关信息，只要高于debug才会打印
+logging:
+  level:
+    com.wanxiaoyuan.coupon: debug
+
+

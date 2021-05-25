@@ -1,0 +1,15 @@
+com\wanxiaoyuan\coupon\constant\RoleEnum.class
+com\wanxiaoyuan\coupon\dao\UserRoleMappingRepository.class
+com\wanxiaoyuan\coupon\dao\RolePathMappingRepository.class
+com\wanxiaoyuan\coupon\service\impl\PathServiceImpl.class
+com\wanxiaoyuan\coupon\entity\RolePathMapping.class
+com\wanxiaoyuan\coupon\controller\PermissionController.class
+com\wanxiaoyuan\coupon\service\IPathService.class
+com\wanxiaoyuan\coupon\service\IPermissionService.class
+com\wanxiaoyuan\coupon\entity\Role.class
+com\wanxiaoyuan\coupon\service\impl\PermissionServiceImpl.class
+com\wanxiaoyuan\coupon\dao\PathRepository.class
+com\wanxiaoyuan\coupon\entity\Path.class
+com\wanxiaoyuan\coupon\entity\UserRoleMapping.class
+com\wanxiaoyuan\coupon\dao\RoleRepository.class
+com\wanxiaoyuan\coupon\PermissionApplication.class

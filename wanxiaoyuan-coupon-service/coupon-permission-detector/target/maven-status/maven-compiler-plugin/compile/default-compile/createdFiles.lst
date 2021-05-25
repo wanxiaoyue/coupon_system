@@ -1,0 +1,7 @@
+com\wanxiaoyuan\coupon\annotation\WanxiaoyuanCouponPermission.class
+com\wanxiaoyuan\coupon\vo\PermissionInfo.class
+com\wanxiaoyuan\coupon\PermissionRegistry.class
+com\wanxiaoyuan\coupon\PermissionDetectListener.class
+com\wanxiaoyuan\coupon\AnnotationScanner.class
+com\wanxiaoyuan\coupon\annotation\IgnorePermission.class
+com\wanxiaoyuan\coupon\PermissionSDKConfig.class
